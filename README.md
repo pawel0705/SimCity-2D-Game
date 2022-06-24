@@ -119,16 +119,16 @@ Newest – pokazuje się najnowsza gazeta
 
 # Screeny z gry
 
-![GitHub Logo](/images/city1.jpg)
+![Image](/images/city1.jpg)
 
-![GitHub Logo](/images/city2.jpg)
+![Image](/images/city2.jpg)
 
-![GitHub Logo](/images/city3.jpg)
+![Image](/images/city3.jpg)
 
-![GitHub Logo](/images/city4.jpg)
+![Image](/images/city4.jpg)
 
-![GitHub Logo](/images/city5.jpg)
+![Image](/images/city5.jpg)
 
-![GitHub Logo](/images/city6.jpg)
+![Image](/images/city6.jpg)
 
-![GitHub Logo](/images/city7.jpg)
+![Image](/images/city7.jpg)
